@@ -1,0 +1,6 @@
+Dear Professor,
+
+I have completed the lab 2 requirements as specified in the pdf exercise 1. I have created the css style sheet for the about.html page and validated the websites using w3c. But still there are errors in validator page sometimes. 
+
+Best regards,
+Abrham
