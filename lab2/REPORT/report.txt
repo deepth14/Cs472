@@ -1,6 +1,7 @@
 Dear Professor,
 
-I have completed the lab 2 requirements as specified in the pdf exercise 1. I have created the css style sheet for the about.html page and validated the websites using w3c. But still there are errors in validator page sometimes. 
-
+I have completed the lab 2 requirements as specified in the pdf exercise 1. I have created the css style sheet for the aboutme.html page and validated the websites using w3c. But still there are errors in validator page sometimes. 
+here is a link to my page:
+https://deepth14.github.io/Cs472/lab2/aboutme.html
 Best regards,
 Abrham
