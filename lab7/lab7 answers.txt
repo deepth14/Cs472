@@ -1,0 +1,15 @@
+Lab 6 solutions
+1.	it will print out like this,
+Undefined 8,8, 9,10,1
+
+2.	Global scope is the scope that contains all other scopes and is visible to them,Where as Local Scope can be function scope or block scope.
+        When you create a variable within a function, you get function Scope.And inside a block you get a block scope.  
+        
+3.	No,because scope b and c are inside the inner functions.
+        yes,because scope A is a global scope.
+        No,Scope C is inside the fuction in scope B,which is an inner function to scope B.
+        yes,scope A is a global scope.
+        yes,Scope C is inside the inner function in  scope B,so can access variables of the outer scope.
+4.	81,
+        25
+5.	1
